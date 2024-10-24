@@ -22,6 +22,10 @@
 		            <input required="" placeholder="" type="text" class="input" name="lastname">
 		            <span>Lastname</span>
 		        </label>
+			<label>
+		            <input required="" placeholder="" type="text" class="input" name="phoneNumber">
+		            <span>Phone number</span>
+		        </label>
 		    </div>  
 		            
 		    <label>
